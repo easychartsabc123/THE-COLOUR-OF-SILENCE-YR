@@ -1,0 +1,95 @@
+[index.html.txt](https://github.com/user-attachments/files/23283387/index.html.txt)
+<section class="hero">
+    <img src="image_6.jpg" alt="A young boy, Abba, in a refugee camp, holding a glowing flute, with a small plant growing from a cracked pot." class="hero-image">
+    <div class="hero-image-overlay"></div>
+    <div class="hero-content">
+        <h1>The Colour<span>of Silence</span></h1>
+        <p>A symphony of music, memory, and defiance: a story about the one fragile human note that endures, even when all else is gone.</p>
+        <a href="mailto:easychartseducational@gmail.com" class="cta-button">Order Now</a>
+    </div>
+</section>
+
+<section id="about" class="about">
+    <h2 class="section-title">About the Author</h2>
+    <div class="about-content">
+        <img src="image_8.jpg" alt="Portrait of Yekini Raji" class="author-image">
+        <div class="author-bio">
+            <h3>Yekini Raji</h3>
+            <p>Yekini Raji is a storyteller and seasoned teacher from Osi, Kwara State, now living in Lagos, Nigeria. With over three decades spent listening deeply to young hearts and shaping curious minds, his writing is rooted in the music of human observation and profound empathy for the quiet struggles we all endure.</p>
+            <p>His acclaimed debut, <em>Cooing of a Homing Pigeon</em> (2020), wove themes of memory and belonging with a gentle, lyrical touch. <em>The Colour of Silence</em> continues this exploration, delving into the resonant space where language fails, loss speaks, and wonder flickers quietly back to life.</p>
+            <p>Readers are invited to follow the author's ongoing literary journey, which continues with the forthcoming <em>Scars of Destiny</em>, a powerful tale of resilience and the maps we carve from our deepest wounds, due later this year.</p>
+        </div>
+    </div>
+</section>
+
+<section id="book" class="book-details">
+    <h2 class="section-title">The Book</h2>
+    <div class="book-details-content">
+        <div class="book-excerpt">
+            <h3>The Story</h3>
+            <p>"The world is being eaten alive. A plague called Grey Silence devours sound, drains colour from the skies, and scours memory from the mind. In a dust-choked refugee camp, a boy named Abba clings to the ghost of a song, scratching half-remembered melodies into the cracked earth with his bare and bleeding hands. He is the last soul who still hears the world's fading music."</p>
+            <p>His only weapon is a flute carved from a lightning-struck tree: an instrument whose melodies can summon colour from dust and push back the encroaching void. But Silence is no passive darkness. It listens. It learns. It hungers. It feeds on the very emotions that give Abba's songs strength. Every note of courage thickens its smog; every echo of grief becomes its armour. To fight it is to feed it.</p>
+            <p>To save what little remains, Abba must compose a final, impossible song: a melody so pure it cannot be corrupted, born not of fear or fury, but of hope that refuses to die. With his heart in ruins and the smothering Silence closing in, can he summon the strength to play a single, perfect note of hope—or will the hungering plague claim him, and the last song, forever?</p>
+        </div>
+        <div class="book-info">
+            <div class="info-item">
+                <div class="info-icon"><i class="fas fa-book"></i></div>
+                <div class="info-text">
+                    <h4>Genre</h4>
+                    <p>Young Adult Fantasy</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-icon"><i class="fas fa-calendar-alt"></i></div>
+                <div class="info-text">
+                    <h4>Release Date</h4>
+                    <p>October 15, 2025</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-icon"><i class="fas fa-globe-africa"></i></div>
+                <div class="info-text">
+                    <h4>Setting</h4>
+                    <p>Dust-choked refugee camps and magical landscapes of West Africa</p>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-icon"><i class="fas fa-tags"></i></div>
+                <div class="info-text">
+                    <h4>Themes</h4>
+                    <p>Memory, Loss, Hope, Healing, Empathy, Music as Magic</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="image_4.jpg" alt="Montage of scenes from 'The Colour of Silence', including a family under a baobab tree, a boy playing flute with his mother, and the book's title art." class="full-width-image">
+</section>
+
+<section id="moments" class="key-moments">
+    <h2 class="section-title">Key Moments in The Colour of Silence</h2>
+    <div class="moments-grid">
+        <div class="moment-card">
+            <h3>The Colour of Memory</h3>
+            <img src="image_1.jpg" alt="A young boy, Abba, in a refugee camp, holding a glowing flute, with a small plant growing from a cracked pot." class="grid-image">
+            <p>In a world stripped of colour and sound, Abba courageously confronts his own grief to play a memory of pure love on his magic flute, a feat that requires him to move beyond the raw pain of his loss and tap into the genuine, selfless love beneath it.</p>
+            <p>This effort is the first defiant spark of hope in a narrative of despair. It proves that authentic emotion, not just technical skill, is the key to wielding magic. The miraculous greening of a dead plant is tangible, irrefutable evidence that his song can literally restore life, redefining the struggle against the Grey Silence not as a battle of force, but one of heartfelt remembrance.</p>
+        </div>
+        <div class="moment-card">
+            <h3>The Song of the Beast</h3>
+            <img src="image_7.jpg" alt="A young man and a woman in a misty, dead forest, with the man playing a glowing flute, and a large, armored pangolin with musical notes coming from the flute." class="grid-image">
+            <p>Abba’s effort is to resist the instinct to fight or flee and instead confront the enraged pangolin with a song of pure, empathetic peace. He must overcome his own terror to find a melody not of sorrow or courage, but of deep, calming safety, channeling the memory of his father's comforting presence to reach the creature's tormented heart.</p>
+            <p>This moment represents a quantum leap in Abba's understanding of his power and his quest. He proves that the true weapon against Grey Silence is not force, but profound empathy. By healing the beast, he demonstrates that Silence can be transformed through compassion, not conquered through conflict. This redefines his entire mission: he is not a warrior fighting an enemy, but a healer mending the world's sorrows, one heart at a time.</p>
+        </div>
+        <div class="moment-card">
+            <h3>The Song of Remembering</h3>
+            <img src="image_3.jpg" alt="A young man and woman playing a glowing flute together, surrounded by people, under a large tree with swirling smoke." class="grid-image">
+            <p>Abba’s greatest act is not one of battle, but of surrender — not to defeat, but to truth. Instead of fighting Grey Silence with power or defiance, he chooses to feel. He opens himself fully to grief, love, and longing, allowing every memory — painful and precious — to flow through him and into his song. The flute, Blue Ranger, becomes a vessel not of destruction, but of healing.</p>
+            <p>Abba’s song transforms because it is born from wholeness — sorrow and joy braided together. In embracing his loss rather than resisting it, he discovers a deeper magic: the purple of acceptance, where pain and hope coexist. His music doesn’t destroy Silence; it listens to it, understands it, and in doing so, heals it.</p>
+            <p>This moment matters because it marks the completion of Abba’s journey from fear to compassion, from isolation to connection. By offering his truest feelings — not only his own, but those of Zainab and their community — he restores what Grey Silence stole: the world’s capacity to remember, to feel, to sing again.</p>
+            <p>Abba learns that the truest courage lies not in erasing pain, but in transforming it — turning silence into song, and grief into the seed of new beginnings.</p>
+        </div>
+        <div class="moment-card">
+            <h3>A New Song</h3>
+            <img src="image_2.jpg" alt="A young man playing a glowing flute, with a woman beside him, standing on a cliff overlooking a vibrant valley under a star-filled sky with a giant, cosmic figure of a woman and falling light." class="grid-image">
+            <p>Abba’s effort shows that courage and hope find their truest expression not in holding on, but in learning to let go and share what we’ve carried. True healing, he discovers, is not a solo performance but a shared legacy.</p>
+            <p>By placing Blue Ranger in his sister Amara’s hands, Abba turns his struggle into a gift that renews others. His music no longer resists Silence—it transforms it, teaching
